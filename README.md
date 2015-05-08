@@ -1,2 +1,2 @@
 # MyApplication 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=rDUh-yolnx4)
+[![ScreenShot](http://www.revotechnik.com/img/software/default.jpg)](https://www.youtube.com/watch?v=rDUh-yolnx4)
