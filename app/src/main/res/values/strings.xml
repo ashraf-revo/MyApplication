@@ -14,9 +14,10 @@
     <string name="title_activity_main_activity3">MainActivity3</string>
     <string name="newnumber">New Number</string>
     <string name="save">Save</string>
-    <string name="list">ListMyNumber</string>
+    <string name="list">List My Number</string>
     <string name="search">Search</string>
     <string name="title_activity_main_activity4">MainActivity4</string>
     <string name="uplodd">Uplode Your Numbers</string>
+    <string name="title_activity_main_activity5">MainActivity5</string>
 
 </resources>
